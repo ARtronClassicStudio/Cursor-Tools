@@ -1,0 +1,11 @@
+{
+  "name": "com.unity.cursortools",
+  "displayName": "Cursor Tools",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "description": "This package will give you the ability to control the position of the cursor. (Only for Windows,Maybe there is support WebGL)",
+  "license": "MIT",
+  "keywords": ["tools","code","utility"],
+  "dependencies": {},
+  "author": { "name": "Unity" }
+}
