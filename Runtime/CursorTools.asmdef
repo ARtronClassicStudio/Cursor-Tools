@@ -1,6 +1,6 @@
 {
     "name": "CursorTools",
-    "rootNamespace": "",
+    "rootNamespace": "CursorTools",
     "references": [],
     "includePlatforms": [
         "Editor",
